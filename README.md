@@ -98,5 +98,4 @@ ASA Sa(double   TemperatureRatioScale       = 1e-5,
        unsigned numberCostSamples           = 30);
 ```
 
-The meaning of each parameter, and set of reasonable values, can be found in the references provided in the beginning.
-Full documentation for the entire code can be easily generated. (every function in the header files is commented using Doxygen)
+The meaning of each parameter, and set of reasonable values can be found in the references provided in the beginning.
